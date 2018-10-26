@@ -11,8 +11,6 @@ import org.springframework.web.bind.annotation.*;
  * @className:
  * @description:
  * @date 2018-07-13 15:21
- * 注意：本内容仅限于新疆感知科技有限公司内部传阅,禁止外泄以及用于其他的商业目
- * Copyright © 2017-ganinfo. All rights reserved.
  **/
 @RestController
 @RequestMapping("/test")
